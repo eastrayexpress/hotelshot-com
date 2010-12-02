@@ -1,0 +1,118 @@
+ .button.index
+{
+    height: 34px;
+    line-height: 34px;
+    background-position: left -87px;
+    width: 250px;
+    margin: 10px auto 0 20px;
+}
+.button.index span
+{
+    margin-right: 30%;
+    background: none;
+    padding-left: 80px;
+    padding-right: 50px;
+}
+.button.index:hover
+{
+    background-position: left -258px;
+}
+.button.index:hover span, .button.index:hover input
+{
+    background-position: right -228px;
+}
+.button.large
+{
+    height: 39px;
+    line-height: 39px;
+    background-position: left -48px;
+}
+.button.large span, .button.large input
+{
+    background-position: right -48px;
+    height: 39px;
+    line-height: 39px;
+}
+.button.large:hover
+{
+    background-position: left -219px;
+}
+.button.large:hover span, .button.large:hover input
+{
+    background-position: right -219px;
+}
+.button.large:active
+{
+    background-position: left -390px;
+}
+.button.large:active span, .button.large:active input
+{
+    background-position: right -390px;
+}
+.button.xlarge
+{
+    height: 47px;
+    line-height: 47px;
+    background-position: left top;
+    font-weight: bold;
+}
+.button.xlarge span, .button.xlarge input
+{
+    background-position: right top;
+    height: 47px;
+    line-height: 47px;
+    font-size: 18px;
+    color: #fff;
+    margin-left: 20px;
+    padding-right: 20px;
+}
+.button.xlarge:hover
+{
+    background-position: left -171px;
+}
+.button.xlarge:hover span, .button.xlarge:hover input
+{
+    background-position: right -171px;
+}
+.button.xlarge:active
+{
+    background-position: left -342px;
+}
+.button.xlarge:active span, .button.xlarge:active input
+{
+    background-position: right -342px;
+}
+button::-moz-focus-inner
+{
+    border: none;
+}
+.blue span, .blue input
+{
+    color: #fff !important;
+}
+.button.free
+{
+    position: relative;
+}
+.button.xlarge.free span
+{
+    line-height: 35px;
+}
+.button.free em
+{
+    position: absolute;
+    font-style: normal;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    color: #fc0;
+    font-size: .7em;
+    bottom: -3px;
+}
+.bg-hotel-feature{
+    border: 5px solid #D4DEF0;
+    background: url(../BlueMosque_EN-GB391402118_tb.jpg); 
+    min-height: 290PX; 
+    width: 590PX!important;
+    float: right
+}
