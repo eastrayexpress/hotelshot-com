@@ -1,0 +1,1014 @@
+
+body{font:13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif}a:focus{outline:1px dotted}hr{border:0 #ccc solid;border-top-width:1px;clear:both;height:0}h1{font-size:25px}h2{font-size:23px}h3{font-size:21px}h4{font-size:19px}h5{font-size:17px}h6{font-size:15px}ol{list-style:decimal}ul{list-style:disc}li{margin-left:0px}
+
+
+dl,hr,h1,h3,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:20px}
+
+
+
+body{min-width:960px}.container_24{margin-left:auto;margin-right:auto;width:960px}.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12,.grid_13,.grid_14,.grid_15,.grid_16,.grid_17,.grid_18,.grid_19,.grid_20,.grid_21,.grid_22,.grid_23,.grid_24{display:inline;float:left;margin-left:5px;margin-right:5px}.push_1,.pull_1,.push_2,.pull_2,.push_3,.pull_3,.push_4,.pull_4,.push_5,.pull_5,.push_6,.pull_6,.push_7,.pull_7,.push_8,.pull_8,.push_9,.pull_9,.push_10,.pull_10,.push_11,.pull_11,.push_12,.pull_12,.push_13,.pull_13,.push_14,.pull_14,.push_15,.pull_15,.push_16,.pull_16,.push_17,.pull_17,.push_18,.pull_18,.push_19,.pull_19,.push_20,.pull_20,.push_21,.pull_21,.push_22,.pull_22,.push_23,.pull_23{position:relative}.alpha{margin-left:0}.omega{margin-right:0}.container_24 .grid_1{width:30px}.container_24 .grid_2{width:70px}.container_24 .grid_3{width:110px}.container_24 .grid_4{width:150px}.container_24 .grid_5{width:190px}.container_24 .grid_6{width:230px}.container_24 .grid_7{width:270px}.container_24 .grid_8{width:310px}.container_24 .grid_9{width:350px}.container_24 .grid_10{width:390px}.container_24 .grid_11{width:430px}.container_24 .grid_12{width:470px}.container_24 .grid_13{width:510px}.container_24 .grid_14{width:550px}.container_24 .grid_15{width:590px}.container_24 .grid_16{width:630px}.container_24 .grid_17{width:670px}.container_24 .grid_18{width:710px}.container_24 .grid_19{width:750px}.container_24 .grid_20{width:790px}.container_24 .grid_21{width:830px}.container_24 .grid_22{width:870px}.container_24 .grid_23{width:910px}.container_24 .grid_24{width:950px}.container_24 .prefix_1{padding-left:40px}.container_24 .prefix_2{padding-left:80px}.container_24 .prefix_3{padding-left:120px}.container_24 .prefix_4{padding-left:160px}.container_24 .prefix_5{padding-left:200px}.container_24 .prefix_6{padding-left:240px}.container_24 .prefix_7{padding-left:280px}.container_24 .prefix_8{padding-left:320px}.container_24 .prefix_9{padding-left:360px}.container_24 .prefix_10{padding-left:400px}.container_24 .prefix_11{padding-left:440px}.container_24 .prefix_12{padding-left:480px}.container_24 .prefix_13{padding-left:520px}.container_24 .prefix_14{padding-left:560px}.container_24 .prefix_15{padding-left:600px}.container_24 .prefix_16{padding-left:640px}.container_24 .prefix_17{padding-left:680px}.container_24 .prefix_18{padding-left:720px}.container_24 .prefix_19{padding-left:760px}.container_24 .prefix_20{padding-left:800px}.container_24 .prefix_21{padding-left:840px}.container_24 .prefix_22{padding-left:880px}.container_24 .prefix_23{padding-left:920px}.container_24 .suffix_1{padding-right:40px}.container_24 .suffix_2{padding-right:80px}.container_24 .suffix_3{padding-right:120px}.container_24 .suffix_4{padding-right:160px}.container_24 .suffix_5{padding-right:200px}.container_24 .suffix_6{padding-right:240px}.container_24 .suffix_7{padding-right:280px}.container_24 .suffix_8{padding-right:320px}.container_24 .suffix_9{padding-right:360px}.container_24 .suffix_10{padding-right:400px}.container_24 .suffix_11{padding-right:440px}.container_24 .suffix_12{padding-right:480px}.container_24 .suffix_13{padding-right:520px}.container_24 .suffix_14{padding-right:560px}.container_24 .suffix_15{padding-right:600px}.container_24 .suffix_16{padding-right:640px}.container_24 .suffix_17{padding-right:680px}.container_24 .suffix_18{padding-right:720px}.container_24 .suffix_19{padding-right:760px}.container_24 .suffix_20{padding-right:800px}.container_24 .suffix_21{padding-right:840px}.container_24 .suffix_22{padding-right:880px}.container_24 .suffix_23{padding-right:920px}.container_24 .push_1{left:40px}.container_24 .push_2{left:80px}.container_24 .push_3{left:120px}.container_24 .push_4{left:160px}.container_24 .push_5{left:200px}.container_24 .push_6{left:240px}.container_24 .push_7{left:280px}.container_24 .push_8{left:320px}.container_24 .push_9{left:360px}.container_24 .push_10{left:400px}.container_24 .push_11{left:440px}.container_24 .push_12{left:480px}.container_24 .push_13{left:520px}.container_24 .push_14{left:560px}.container_24 .push_15{left:600px}.container_24 .push_16{left:640px}.container_24 .push_17{left:680px}.container_24 .push_18{left:720px}.container_24 .push_19{left:760px}.container_24 .push_20{left:800px}.container_24 .push_21{left:840px}.container_24 .push_22{left:880px}.container_24 .push_23{left:920px}.container_24 .pull_1{left:-40px}.container_24 .pull_2{left:-80px}.container_24 .pull_3{left:-120px}.container_24 .pull_4{left:-160px}.container_24 .pull_5{left:-200px}.container_24 .pull_6{left:-240px}.container_24 .pull_7{left:-280px}.container_24 .pull_8{left:-320px}.container_24 .pull_9{left:-360px}.container_24 .pull_10{left:-400px}.container_24 .pull_11{left:-440px}.container_24 .pull_12{left:-480px}.container_24 .pull_13{left:-520px}.container_24 .pull_14{left:-560px}.container_24 .pull_15{left:-600px}.container_24 .pull_16{left:-640px}.container_24 .pull_17{left:-680px}.container_24 .pull_18{left:-720px}.container_24 .pull_19{left:-760px}.container_24 .pull_20{left:-800px}.container_24 .pull_21{left:-840px}.container_24 .pull_22{left:-880px}.container_24 .pull_23{left:-920px}.clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0}.clearfix:before,.clearfix:after{content:'\0020';display:block;overflow:hidden;visibility:hidden;width:0;height:0}.clearfix:after{clear:both}.clearfix{zoom:1}
+
+body {
+
+	color: #333;
+	font-size: 11px;
+	padding: 20px 0 40px;
+}
+
+a {
+	text-decoration: none;
+	color:#258CD8;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	
+	font-weight: normal;
+	
+}
+
+h2 {
+	padding: 10px 0 0;
+	
+}
+
+p {
+	
+	
+	padding: 10px 0;
+	
+}
+
+.container_24 {
+	background: #fff;
+}
+
+
+.hotellisting p{
+font-size:110%;color:#444
+}
+
+ 
+ 
+ .hotellisting  { margin-bottom:0;margin-toP:0;border-bottom:1Px dotted #D6D6D6;padding:0}
+
+#bookingSearchForm .datepicker { font-size: 13px; color: #888; margin-top: 2px; margin-bottom: 2px; padding: 2px 0 2px 1px; width:122px; height: 20px;  cursor: pointer; }
+
+
+
+#mainhotel { margin-left:10px}
+#mainhotel a img  {border:0}
+
+
+
+
+
+#bookingSearchForm { margin:10px auto 0px auto;padding:3px}
+
+#bookingSearchForm select {padding-top:4px;padding-bottom:4px;margin-top:2px;border:1px solid #7CA1BA }
+
+
+
+#bookingSearchForm  form {background-color:white; padding:1px;height:240px;}
+
+#bookingSearchForm label {margin:0;margin-bottom:-1em;font-size:1.1em;color:#336699;font-weight:700;}
+
+
+#bookingSearchForm  .gridfirst{display:inline;float:left;position:relative;margin-left:0px}
+#bookingSearchForm .gridnew{display:inline;float:left;position:relative;margin-left:10px}
+
+
+select{margin-top:0px;font-size:13px;color:#333;padding:5px;border:1px solid #EEE}
+
+#pro-value{font-size:1.1em;padding:4px 0px 4px 4px;border:1px solid #EEE;width:160px;margin-bottom:10px;margin-right:auto;margin-left:auto;height:20px;margin-top:2Px;color:#888}
+
+
+
+.hotelReview{color:#525252;width:120px;float:right;margin-right:-10px;height:9px}
+							.hotelReviewBar{background:url(../pro-sprite-v1.png) 0 -9px no-repeat;height:9px}
+							.hotelReview_full{background:url(../pro-sprite-v1.png) -0 0 no-repeat;height:9px}
+							.hotelReview_full{background-repeat:no-repeat;width:50px;height:9px}
+							
+							
+
+							#bookingSearchForm  h2{margin-bottom:12px;font-size:18px;color:#404040;margin-left:10px;margin-top:-15px}
+#bookingSearchForm hr {background:#D4DEF0;color:#D4DEF0;clear:both;float:none;width:100%;height:.1em;margin:0 0 1.45em;border:none;}
+ 
+ 
+#autocomplete
+{font-size:1.6em;padding:6px 0px 6px 4px;width:250px;margin-bottom:10px;margin-right:auto;margin-left:auto;font-weight:700} 
+
+#autocomplete-narrow
+{font-size:1.6em;padding:6px 0px 6px 4px;width:210px;margin-bottom:10px;margin-right:auto;margin-left:auto;font-weight:700} 
+label{float:left}
+
+
+#bookingSearchForm .gridfirst {margin-left:10px}
+
+
+
+ 
+/* Datepicker
+----------------------------------*/
+.ui-datepicker { width: 17em; padding: .4em .2em 0; }
+.ui-datepicker .ui-datepicker-header { position:relative; padding:.2em 0; }
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next { position:absolute; top: 2px; width: 1.8em; height: 1.8em; }
+.ui-datepicker .ui-datepicker-prev-hover, .ui-datepicker .ui-datepicker-next-hover { top: 1px; }
+.ui-datepicker .ui-datepicker-prev { left:2px; }
+.ui-datepicker .ui-datepicker-next { right:2px; }
+.ui-datepicker .ui-datepicker-prev-hover { left:1px; }
+.ui-datepicker .ui-datepicker-next-hover { right:1px; }
+.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span { display: block; position: absolute; left: 50%; margin-left: -8px; top: 50%; margin-top: -8px;  }
+.ui-datepicker .ui-datepicker-title { margin: 0 2.3em; line-height: 1.8em; text-align: center; }
+.ui-datepicker .ui-datepicker-title select { font-size:1em; margin:1px 0; }
+.ui-datepicker select.ui-datepicker-month-year {width: 100%;}
+.ui-datepicker select.ui-datepicker-month, 
+.ui-datepicker select.ui-datepicker-year { width: 49%;}
+.ui-datepicker table {width: 100%; font-size: .9em; border-collapse: collapse; margin:0 0 .4em; }
+.ui-datepicker th { padding: .7em .3em; text-align: center; font-weight: bold; border: 0;  }
+.ui-datepicker td { border: 0; padding: 1px; }
+.ui-datepicker td span, .ui-datepicker td a { display: block; padding: .2em; text-align: right; text-decoration: none; }
+.ui-datepicker .ui-datepicker-buttonpane { background-image: none; margin: .7em 0 0 0; padding:0 .2em; border-left: 0; border-right: 0; border-bottom: 0; }
+.ui-datepicker .ui-datepicker-buttonpane button { float: right; margin: .5em .2em .4em; cursor: pointer; padding: .2em .6em .3em .6em; width:auto; overflow:visible; }
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current { float:left; }
+
+/* with multiple calendars */
+.ui-datepicker.ui-datepicker-multi { width:auto; padding: 1.2em;margin-bottom:0;border:1px solid   #999 }
+.ui-datepicker-multi .ui-datepicker-group { float:left; }
+.ui-datepicker-multi .ui-datepicker-group table { width:95%; margin:0 auto .4em; }
+.ui-datepicker-multi-2 .ui-datepicker-group { width:50%; }
+.ui-datepicker-multi-3 .ui-datepicker-group { width:33.3%; }
+.ui-datepicker-multi-4 .ui-datepicker-group { width:25%; }
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header { border-left-width:0; }
+.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header { border-left-width:0; }
+.ui-datepicker-multi .ui-datepicker-buttonpane { clear:left; }
+.ui-datepicker-row-break { clear:both; width:100%; }
+
+/* RTL support */
+.ui-datepicker-rtl { direction: rtl; }
+.ui-datepicker-rtl .ui-datepicker-prev { right: 2px; left: auto; }
+.ui-datepicker-rtl .ui-datepicker-next { left: 2px; right: auto; }
+.ui-datepicker-rtl .ui-datepicker-prev:hover { right: 1px; left: auto; }
+.ui-datepicker-rtl .ui-datepicker-next:hover { left: 1px; right: auto; }
+.ui-datepicker-rtl .ui-datepicker-buttonpane { clear:right; }
+.ui-datepicker-rtl .ui-datepicker-buttonpane button { float: left; }
+.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current { float:right; }
+.ui-datepicker-rtl .ui-datepicker-group { float:right; }
+.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header { border-right-width:0; border-left-width:1px; }
+.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header { border-right-width:0; border-left-width:1px; }
+
+/* IE6 IFRAME FIX (taken from datepicker 1.5.3 */
+.ui-datepicker-cover {
+    display: none; /*sorry for IE5*/
+    display/**/: block; /*sorry for IE5*/
+    position: absolute; /*must have*/
+    z-index: -1; /*must have*/
+    filter: mask(); /*must have*/
+    top: -4px; /*must have*/
+    left: -4px; /*must have*/
+    width: 200px; /*must have*/
+    height: 200px; /*must have*/
+}/* Dialog
+----------------------------------*/
+.ui-dialog { position: absolute; padding: .2em; width: 300px; overflow: hidden; }
+.ui-dialog .ui-dialog-titlebar { padding: .5em 1em .3em; position: relative;  }
+.ui-dialog .ui-dialog-title { float: left; margin: .1em 16px .2em 0; } 
+.ui-dialog .ui-dialog-titlebar-close { position: absolute; right: .3em; top: 50%; width: 19px; margin: -10px 0 0 0; padding: 1px; height: 18px; }
+.ui-dialog .ui-dialog-titlebar-close span { display: block; margin: 1px; }
+.ui-dialog .ui-dialog-titlebar-close:hover, .ui-dialog .ui-dialog-titlebar-close:focus { padding: 0; }
+.ui-dialog .ui-dialog-content { border: 0; padding: .5em 1em; background: none; overflow: auto; zoom: 1; }
+.ui-dialog .ui-dialog-buttonpane { text-align: left; border-width: 1px 0 0 0; background-image: none; margin: .5em 0 0 0; padding: .3em 1em .5em .4em; }
+.ui-dialog .ui-dialog-buttonpane button { float: right; margin: .5em .4em .5em 0; cursor: pointer; padding: .2em .6em .3em .6em; line-height: 1.4em; width:auto; overflow:visible; }
+.ui-dialog .ui-resizable-se { width: 14px; height: 14px; right: 3px; bottom: 3px; }
+.ui-draggable .ui-dialog-titlebar { cursor: move; }
+/* Progressbar
+----------------------------------*/
+.ui-progressbar { height:2em; text-align: left; }
+.ui-progressbar .ui-progressbar-value {margin: -1px; height:100%; }/* Resizable
+----------------------------------*/
+.ui-resizable { position: relative;}
+.ui-resizable-handle { position: absolute;font-size: 0.1px;z-index: 99999; display: block;}
+.ui-resizable-disabled .ui-resizable-handle, .ui-resizable-autohide .ui-resizable-handle { display: none; }
+.ui-resizable-n { cursor: n-resize; height: 7px; width: 100%; top: -5px; left: 0; }
+.ui-resizable-s { cursor: s-resize; height: 7px; width: 100%; bottom: -5px; left: 0; }
+.ui-resizable-e { cursor: e-resize; width: 7px; right: -5px; top: 0; height: 100%; }
+.ui-resizable-w { cursor: w-resize; width: 7px; left: -5px; top: 0; height: 100%; }
+.ui-resizable-se { cursor: se-resize; width: 12px; height: 12px; right: 1px; bottom: 1px; }
+.ui-resizable-sw { cursor: sw-resize; width: 9px; height: 9px; left: -5px; bottom: -5px; }
+.ui-resizable-nw { cursor: nw-resize; width: 9px; height: 9px; left: -5px; top: -5px; }
+.ui-resizable-ne { cursor: ne-resize; width: 9px; height: 9px; right: -5px; top: -5px;}/* Slider
+----------------------------------*/
+.ui-slider { position: relative; text-align: left; }
+.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 1.2em; height: 1.2em; cursor: default; }
+.ui-slider .ui-slider-range { position: absolute; z-index: 1; font-size: .7em; display: block; border: 0; background-position: 0 0; }
+
+.ui-slider-horizontal { height: .8em; }
+.ui-slider-horizontal .ui-slider-handle { top: -.3em; margin-left: -.6em; }
+.ui-slider-horizontal .ui-slider-range { top: 0; height: 100%; }
+.ui-slider-horizontal .ui-slider-range-min { left: 0; }
+.ui-slider-horizontal .ui-slider-range-max { right: 0; }
+
+.ui-slider-vertical { width: .8em; height: 100px; }
+.ui-slider-vertical .ui-slider-handle { left: -.3em; margin-left: 0; margin-bottom: -.6em; }
+.ui-slider-vertical .ui-slider-range { left: 0; width: 100%; }
+.ui-slider-vertical .ui-slider-range-min { bottom: 0; }
+.ui-slider-vertical .ui-slider-range-max { top: 0; }/* Tabs
+----------------------------------*/
+.ui-tabs { position: relative; padding: .2em; zoom: 1; } /* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+.ui-tabs .ui-tabs-nav { margin: 0; padding: .2em .2em 0; }
+.ui-tabs .ui-tabs-nav li { list-style: none; float: left; position: relative; top: 1px; margin: 0 .2em 1px 0; border-bottom: 0 !important; padding: 0; white-space: nowrap; }
+.ui-tabs .ui-tabs-nav li a { float: left; padding: .5em 1em; text-decoration: none; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected { margin-bottom: 0; padding-bottom: 1px; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text; }
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; } /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+.ui-tabs .ui-tabs-panel { display: block; border-width: 0; padding: 1em 1.4em; background: none; }
+.ui-tabs .ui-tabs-hide { display: none !important; }
+
+
+
+/*Datepicker*/
+
+
+
+.hotel-count {float:left;font-size:12px;}
+.price-range,.hotel-country-index .cities .city .price-range{float:right;font-size:14px;font-weight:bold;margin:-2px 0 0 0;color:#39c;}
+.city-index {float:left;font-size:14px;clear:both;width:100%;margin-bottom:2px;margin-top:10px}
+#popular .grid_4{margin-bottom:20px}
+
+ 
+							
+							
+							
+.button{display:inline-block;margin:0;padding:0;border:0;background-image:url(../);text-align:center;text-decoration:none;vertical-align:top;overflow:visible;font-size:12px;}a.button{margin-right:3px;}button.button span{background-position:inherit right;display:inline-block;position:relative;}span.button input{padding:0;border:0;float:left;font-weight:bold;background:transparent;}
+
+
+
+span.blue,button.blue,a.blue{background-image:url(../images/sprite-blue.png);background-repeat:no-repeat;}span.blue input,button.blue span,a.blue span{background-image:url(../images/sprite-blue.png);color:#fff;}a.blue,.blue:active span,.blue.small:active input,input.blue,button.blue,{color:white;}
+
+.button{height:24px;line-height:24px;margin:0;padding:0 6px 0 0;background-position:left -123px;font-weight:bold;margin-right:10px;}
+
+.button span,span.button input{height:24px;line-height:24px;background-image:url(../);background-position:right -123px;float:left;display:block;font-size:inherit;margin-left:10px;margin-right:-10px;padding-right:10px;white-space:nowrap;color:#7e136a;cursor:pointer;}
+
+
+
+
+		.ui-tabs {
+
+padding:.2em;
+
+margin-left:0px;
+
+padding-top:20px;
+
+padding-left:0;
+
+padding-right:0;
+
+zoom:1;
+
+
+
+}
+
+#tabs {
+
+list-style:none;
+
+
+
+margin-top:20px;
+
+}
+
+.grid_24 h1{font-size:2.8em;font-weight:700;line-height:1.2em;padding-top:10px;display:inline;float:left;position:relative;margin-left:10px;margin-right:10px}
+
+
+
+
+
+.vyber li.ui-tabs-selected  a{
+
+color:black;
+
+
+
+}
+
+
+
+.vyber li.ui-tabs {
+
+background:#000;
+
+
+
+}
+
+
+
+
+
+.vyber li.ui-tabs-selected {
+
+padding-bottom:1px;
+
+margin-left:00px;
+
+background:white;
+
+border-bottom-width:0;
+
+color:black;
+
+
+
+}.vyber  {
+
+padding-bottom:1px;
+
+margin-left:230px;
+
+border-bottom-width:0;
+
+
+
+width:100%
+
+
+
+}
+
+#story p{font-size:120%;line-height:1.6em;}
+
+#story br{margin-top:0;border:1Px solid red;height:0;line-height:0}
+
+
+
+
+
+
+table thead {background:#D4E9EE;height:20px;vertical-align:middle}
+.editorspick {width:450px;margin-bottom:10px;font-family:georgia;font-size:11px;font-style:italic;margin-right:12px;padding-left:20px;margin-top:-20px}
+
+.color14{color:#039!important;}
+
+#breadcrumb{clear:both;text-align:left;padding:10px 0 1px !important;color:#3193da;font:12px arial regular}
+#breadcrumb ul{float:left;width:100%;font:11px arial;margin-bottom:0;margin-left:-40px}
+#breadcrumb ul li{display:inline;color:#b4c9d6}
+
+#breadcrumb .last{color:#a09e9f;padding-left:4px}
+#breadcrumb a,#nav ul li a{color:#3193da;outline:none}
+#breadcrumb a{padding:0 4px;text-decoration:underline}
+h1{font:22pt arial;color:#3a3436;padding:9px 0px 0px 2px;float:left;letter-spacing:0px;clear:both;margin-bottom:0;margin-top:0}
+
+
+
+
+
+/*SIDEBAR*/
+
+
+.star5,.star4,.star3,.star2,.star1{width:70px;float:left;height:15px}.star5{background:url(../"sprite-v2.png") no-repeat scroll -207px -62px transparent}.star4{background:url(../"sprite-v2.png") no-repeat scroll -207px -93px transparent}.star3{background:url("http://hotelove.sk/wp-content/themes/hotelove/pagepro-sprite-v2.png") no-repeat scroll -207px -123px transparent}.star2{background:url(../"sprite-v2.png") no-repeat scroll -207px -154px transparent}.star1{background:url("http://hotelove.sk/wp-content/themes/hotelove/pagepro-sprite-v2.png") no-repeat scroll -207px -186px transparent}.title{float:left;width:304px}
+
+
+.deals-inner-cont {float:left;width:232px;border-bottom:1px dotted #bfbfbf;padding-bottom:12px;margin-bottom:6px}
+
+.deals-inner-cont a{text-decoration:none}
+
+.deal-price{float:left;width:30%;margin-left:10px}
+
+.deal-details{float:left;width:65%}
+
+
+
+.deal-price p,.deal-details p{color:#999;font-size:12px}
+
+#see-all-deals a {color:#258CDF;float:left;margin-top:0px;margin-right:20px;margin-left:10px;font-weight:700}
+
+.deal-details p{margin-bottom:2px;font-size:12px}
+
+.deal-details a{color:#258CD8;font-weight:bold;font:bold 14px arial}
+.deal-details a.deal-price-link {color:#CC6600;font:bold 18px arial;float:right;margin-right:10px}
+#left-container h2{font-size:11px;color:#404040}
+
+
+
+
+
+
+.recently-viewed {float:left;width:232px;border-bottom:1px dotted #bfbfbf;padding-bottom:12px;margin-bottom:6px;padding-left:10px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*sort searc*/
+.sort-container{height:22px}
+
+.sort-list{float:left;width:620px;margin-top:0px;margin-left:-40px}
+.sort-container ul li.last{border:0!important}
+
+.sort-container ul li{list-style:none;float:left;padding:0 5px;border-right:1px solid #666;position:relative;}
+.sort-container ul li:hover{text-decoration:underline}
+.sort-container ul li.active{text-decoration:none!important;color:#666}
+.sort-container ul #bold{text-decoration:none!important;color:#666;border:0;font-weight:700;margin-right:20px}
+.listOptions{float:right}
+
+.sorting{font:11px arial;color:#258CD8}
+
+.sorting:hover{cursor:pointer}
+
+
+.sort-container ul li.last{border:0!important}
+.active{color:black}
+
+.active:hover{cursor:auto}
+
+.submit{background-color:#3EA6E2;color:#FFFFFF;padding:1px 8px;border:none;#margin-top:-3px;cursor:pointer}
+.countContainer{float:left;width:711px;margin-top:6px;padding-bottom:10px;border-bottom:1px dotted #d6d6d6;margin-bottom:10px}
+
+.countContainerbottom{float:left;width:711px;padding-bottom:20px;margin-top:6px}
+
+.resultCount{width:440px;float:left;margin:0px 5px 0 5px;font:bold 12px arial;color:#A9A9A9}
+
+.result{margin:15px 0 0;float:left;width:711px;border-bottom:1px solid #aaa;padding-bottom:30px}
+
+.result .left-block{float:left;width:600px}
+.pagination{float:right;margin-left:-3px;float:right;margin-top:2px}
+
+
+
+.roomPrice span{font-size:11px;color:#CCC;text-decoration:line-through;font-weight:normal;clear:right}
+.roomprice:link{font-size:12px;color:#070;}
+a.roomprice:link{font-size:12px;color:#070;}
+a.roomprice:hover{text-decoration:underline;}
+
+.rate2{width:125px;text-align:right;overflow:hidden;padding:20px}.per{width:55px;text-align:center;}
+
+#amenities-filter ul li {list-style-type:none}
+#amenities-filter ul li a,#type-filter ul li a,#nightlife-type-filter .all a {width:160px;padding:0;margin:0}
+ .filter ul li span{color:#999999 !important}
+
+#amenities-filter input.all-checkbox,#type-filter input.all-checkbox{margin-right:9px}
+#amenities-filter label{float:left;padding:2px 0 2px 0;display:block}
+#amenities-filter,#amenities-filter ul li,#type-filter ul,#type-filter ul li,#name-filter,#nameFilter{float:left;width:100%}
+#amenities-filter input.all-checkbox,#type-filter input.all-checkbox{width:15px;height:15px;overflow:hidden;float:left;margin-right:8px;margin-bottom:1px}
+
+
+.filter ul.show-on-load li a{width:160px;#width:177px}
+.filter ul.hide-on-load li a{width:160px}
+#left-container .filter ul li input,.all input,#class-filter input.all-checkbox,#amenities-filter input.all-checkbox,#type-filter input.all-checkbox{width:15px;height:15px;overflow:hidden;float:left;margin-right:8px;margin-bottom:1px}
+
+.allCheckLink{float:left}
+
+.filter ul li span{color:#999999 !important}
+.all input.all-checkbox,#amenities-filter input.all-checkbox,#type-filter input.all-checkbox{margin-right:9px}
+
+
+
+
+
+.hotel-index-benefits{float:left;width:320px;}
+.hotel-index-benefits .benefit{margin-bottom:10px;}
+.hotel-index-benefits .benefit li{font-size:15px;margin:5px 0;color:#333;}
+
+
+.hotel-index-benefits h3,.benefit h3{font-size:1.4em;font-weight:bold;padding:10px;color:#474747;border-bottom:2px solid #D4DEF0;}.hotel-index-benefits label{display:block;font-weight:bold;}.hotel-index-benefits .benefit p{margin-left:10px;}
+
+
+
+
+
+.ui-tabs-selected a {outline:none;}
+
+
+
+.tabs{width:100%;border-bottom:1px solid #cecece;float:left;clear:both;height:31px;padding:0;margin-top:-31px;margin-bottom:10px}
+
+
+
+
+
+.tabs .label{float:left;padding:6px 8px 4px}
+
+.tabs .button{float:right;margin-left:20px}
+
+.tabs ul{float:left;list-style:none;margin:0;padding:0}
+
+
+
+.tabs li{float:left}
+
+
+
+.tabs li div{font-size:12px;line-height:20px;padding:6px 10px 4px 0}
+
+.tabs li a
+
+{display:block;line-height:20px;padding:6px 14px 4px;margin-left:3px;color:#3590c1;background-color:#fafafa;text-decoration:none;letter-spacing:.5px;border:1px solid #cecece;border-bottom:1px solid #fafafa;border-bottom:none;font-size:12px;border-radius:2px 2px 0 0;-webkit-border-radius:2px 2px 0 0;-moz-border-radius:2px 2px 0 0}.tabs li a.tab-grid{background:url(http://hotelove.sk/wp-content/themes/hotelove/images/result-viewmodes-sprite.gif) no-repeat 10px -19px;padding-left:25px}.tabs li a.tab-grid.active,.tabs li a.tab-grid:hover{background-position:10px -49px}.tabs li a.tab-list{background:url(http://hotelove.sk/wp-content/themes/hotelove/images/result-viewmodes-sprite.gif) no-repeat 10px -109px;padding-left:25px}.tabs li a.tab-list.active,.tabs li a.tab-list:hover{background-position:10px -139px}.tabs li a.tab-grid{background:url(http://hotelove.sk/wp-content/themes/hotelove/images/result-viewmodes-sprite.gif) no-repeat 10px -19px;padding-left:25px}.tabs li a.tab-grid.active,.tabs li a.tab-grid:hover{background-position:10px -49px}.tabs li a.tab-list{background:url(http://hotelove.sk/wp-content/themes/hotelove/images/result-viewmodes-sprite.gif) no-repeat 10px -109px;padding-left:25px}.tabs li a.tab-list.active,.tabs li a.tab-list:hover{background-position:10px -139px}.tabs li a.tab-map{background:url(http://hotelove.sk/wp-content/themes/hotelove/images/result-viewmodes-sprite.gif) no-repeat 10px -199px;padding-left:25px}.tabs li a.tab-map.active,.tabs li a.tab-map:hover{background-position:10px -229px}.tabs li a.tab-guide{background:url(../) no-repeat 10px -289px;padding-left:25px}.tabs li a.tab-guide.active,.tabs li a.tab-guide:hover{background-position:10px -319px}.tabs li a.tab-map{background:url(http://hotelove.sk/wp-content/themes/hotelove/images/result-viewmodes-sprite.gif) no-repeat 10px -199px;padding-left:25px}.tabs li a.tab-map.active,.tabs li a.tab-map:hover{background-position:10px -229px}.tabs li a.tab-guide{background:url(http://hotelove.sk/wp-content/themes/hotelove/images/result-viewmodes-sprite.gif) no-repeat 10px -289px;padding-left:25px}.tabs li a.tab-guide.active,.tabs li a.tab-guide:hover{background-position:10px -319px}.tabs li a:hover{background-color:#fff;color:#4b4b4b;border-bottom:1px solid #FFF}.tabs li
+
+a.active{background-color:#fff;color:#3c3c3c;font-weight:bold;border-bottom:1px solid #FFF}.tabs li a:hover{background-color:#fff;color:#4b4b4b;border-bottom:1px solid #FFF}.tabs li
+
+a.active{background-color:#fff;color:#3c3c3c;font-weight:bold;border-bottom:1px solid #FFF}
+
+
+
+
+
+
+.explanatory_index {MARGIN:0px 0 0 0px;WIDTH:240px;Z-INDEX:100000;margin-left:0px;color:#666;margin-top:-20px}
+.destination_flyout_button{position:absolute;height:16px;width:16px;cursor:pointer;background:white url(../calendar_icon.gif) no-repeat top left;right:6px;top:24px;}
+
+
+
+
+
+/**/
+
+
+#user-menu{float:right;width:600px;margin-top:-80px}#user-menu .profile-image{float:left;width:16px;height:16px;vertical-align:middle;margin:0 3px;}#user-menu ul{float:right;list-style:none;margin:0;padding:0 0 6px;}#user-menu ul li{float:left;margin:0;padding:0;line-height:21px;padding:0 6px;}#user-menu li a{display:block;line-height:21px;display:block;text-decoration:none;}#user-menu ul li.dropdown{background:url(http://www.hotelshot.com/images/sprites.png) no-repeat scroll 100% -363px;padding:0 18px 0 6px;margin:0 2px;height:18px;position:relative;}#user-menu ul li.dropdown:hover{border:1px solid #dedede;background:url(http://www.hotelshot.com/images/sprites.png) no-repeat scroll 100% -364px;border-bottom:1px solid #fff;z-index:1024;padding:0 18px 1px 6px;margin:0 1px;}#user-menu ul li.dropdown:hover a{line-height:19px;}#user-menu li.user-settings a img{float:left;margin-right:5px;}#user-menu li.user-settings a span{float:left;}
+
+
+#user-menu .profile-menu{width:160px;}#user-menu .profile-menu li{width:150px;}#user-menu .guides-menu{width:200px;}#user-menu .guides-menu li{width:200px;}#user-menu ol{display:none;list-style:none;list-style-position:outside;padding:0;margin:-4px 0 0 -7px;text-align:left;}#user-menu li:hover ol{position:absolute;top:24px;float:left;display:block;border:1px solid #dedede;background:#fff;z-index:1024;}#user-menu ol li{float:left;width:100%;list-style:none;padding:0;}#user-menu ol li a{padding:5px;display:block;border-top:1px dotted #ccc;}#user-menu ol li:first-child a{border-top:0;}#user-menu ol li a:hover{font-weight:bold;}#user-menu ol li .count{font-size:11px;color:#666;}#user-menu li.languages{position:relative;z-index:3000;}#user-menu li.languages span{display:block;padding:0 25px 0 0;cursor:pointer;height:18px;background:url(http://www.hotelshot.com/images/sprites.png) no-repeat scroll 100% -43px;color:#1B90D0;}#user-menu li.languages span img{margin:3px;}#user-menu li.languages:hover span{background:url(http://www.hotelshot.com/images/sprites.png) no-repeat scroll 100% -61px;}#user-menu li.languages ul{display:none;width:100px;position:absolute;left:0;border:1px solid #eee;background:#F9F9F9;}#user-menu li.languages ul li{float:none;display:block;border-right:0 none;}#user-menu li.languages ul li a{padding:2px 0;display:block;}#user-menu li.languages ul li.last a{border-bottom:0 none;background-repeat:no-repeat;background-position:0 bottom;}#user-menu li.languages:hover ul{display:block;}#user-menu li.currencies{position:relative;z-index:3000;}#user-menu li.currencies span{display:block;padding:0 25px 0 0;cursor:pointer;height:18px;background:url(http://www.hotelshot.com/images/sprites.png) no-repeat scroll 100% -43px;color:#1B90D0;}#user-menu li.currencies span img{margin:0 3px;}#user-menu li.currencies:hover span{background:url(http://www.hotelshot.com/images/sprites.png) no-repeat scroll 100% -61px;}#user-menu li.currencies ul{display:none;width:60px;position:absolute;left:0;border:1px solid #eee;background:#F9F9F9;}#user-menu li.currencies ul li{float:none;display:block;border-right:0 none;}#user-menu li.currencies ul li a{padding:2px 0;display:block;}#user-menu li.currencies ul li.last a{border-bottom:0 none;background-repeat:no-repeat;background-position:0 bottom;}#user-menu li.currencies:hover ul{display:block;}
+
+
+.top200 {margin-top:200px}
+
+
+
+							/* Datepicker
+----------------------------------*/
+.ui-datepicker {
+width:17em;
+padding:.2em .2em 0;
+}
+
+.ui-datepicker .ui-datepicker-header {
+position:relative;
+padding:.2em 0;
+}
+
+.ui-datepicker .ui-datepicker-prev,.ui-datepicker .ui-datepicker-next {
+position:absolute;
+top:2px;
+width:1.8em;
+height:1.8em;
+}
+
+.ui-datepicker .ui-datepicker-prev-hover,.ui-datepicker .ui-datepicker-next-hover {
+top:1px;
+}
+
+.ui-datepicker .ui-datepicker-prev {
+left:2px;
+}
+
+.ui-datepicker .ui-datepicker-next {
+right:2px;
+}
+
+.ui-datepicker .ui-datepicker-prev-hover {
+left:1px;
+}
+
+.ui-datepicker .ui-datepicker-next-hover {
+right:1px;
+}
+
+.ui-datepicker .ui-datepicker-prev span,.ui-datepicker .ui-datepicker-next span {
+display:block;
+position:absolute;
+left:50%;
+margin-left:-8px;
+top:50%;
+margin-top:-8px;
+}
+
+.ui-datepicker .ui-datepicker-title {
+margin:0 2.3em;
+line-height:1.8em;
+text-align:center;
+}
+
+.ui-datepicker .ui-datepicker-title select {
+font-size:1em;
+margin:1px 0;
+}
+
+.ui-datepicker select.ui-datepicker-month-year {
+width:100%;
+}
+
+.ui-datepicker select.ui-datepicker-month,.ui-datepicker select.ui-datepicker-year {
+width:49%;
+}
+/*vybrany den*/
+.ui-datepicker .ui-datepicker-current-day{
+background-color:#21629C;
+}
+
+
+.ui-datepicker .ui-datepicker-days-cell-over {
+background-color:#21629C;
+}
+
+.ui-datepicker-unselectable .ui-state-disabled {
+border:1px solid red;
+}
+
+.ui-datepicker table {
+width:100%;
+font-size:.9em;
+border-collapse:collapse;
+margin:.4em;
+}
+
+.ui-datepicker th {
+padding:.7em .3em;
+text-align:center;
+font-weight:700;
+border:0;
+}
+
+.ui-datepicker td {
+border:0;
+padding:1px;
+}
+
+.ui-datepicker td span,.ui-datepicker td a {
+display:block;
+padding:.2em;
+text-align:center;
+text-decoration:none;
+color:#CCC;
+font-size:.9em;
+}
+
+/*DOLEZITE*/
+.ui-datepicker .ui-datepicker-buttonpane {
+background-image:none;
+margin:.7em 0 0;
+padding:0 .2em;
+border-left:0;
+border-right:0;
+border-bottom:0;
+}
+
+.ui-datepicker .ui-datepicker-buttonpane button {
+float:right;
+
+margin:.5em .2em .4em;
+cursor:pointer;
+padding:.2em .6em .3em;
+width:auto;
+overflow:visible;
+}
+
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current {
+float:left;
+}
+
+/* with multiple calendars */
+.ui-datepicker.ui-datepicker-multi {
+width:auto;
+}
+
+.ui-datepicker-multi .ui-datepicker-group {
+float:left;
+}
+
+.ui-datepicker-multi .ui-datepicker-group table {
+width:95%;
+margin:0 auto .4em;
+}
+
+.ui-datepicker-multi-2 .ui-datepicker-group {
+width:50%;
+}
+
+.ui-datepicker-multi-3 .ui-datepicker-group {
+width:33.3%;
+}
+
+.ui-datepicker-multi-4 .ui-datepicker-group {
+width:25%;
+}
+
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header {
+border-left-width:0;
+}
+
+.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header {
+border-left-width:0;
+}
+
+.ui-datepicker-multi .ui-datepicker-buttonpane {
+clear:left;
+}
+
+.ui-datepicker-row-break {
+clear:both;
+width:100%;
+}
+
+/* RTL support */
+.ui-datepicker-rtl {
+
+direction:rtl;
+}
+
+.ui-datepicker-rtl .ui-datepicker-prev {
+right:2px;
+left:auto;
+}
+
+.ui-datepicker-rtl .ui-datepicker-next {
+left:2px;
+right:auto;
+}
+
+.ui-datepicker-rtl .ui-datepicker-prev:hover {
+right:1px;
+left:auto;
+}
+
+.ui-datepicker-rtl .ui-datepicker-next:hover {
+left:1px;
+right:auto;
+}
+
+.ui-datepicker-rtl .ui-datepicker-buttonpane {
+clear:right;
+}
+
+.ui-datepicker-rtl .ui-datepicker-buttonpane button {
+float:left;
+}
+
+.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current {
+float:right;
+}
+
+.ui-datepicker-rtl .ui-datepicker-group {
+float:right;
+}
+
+.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header {
+border-right-width:0;
+border-left-width:1px;
+}
+
+.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header {
+border-right-width:0;
+border-left-width:1px;
+}
+
+/* IE6 IFRAME FIX (taken from datepicker 1.5.3 */
+.ui-datepicker-cover {
+display:none;
+/*sorry for IE5*/
+display:block;
+/*sorry for IE5*/
+position:absolute;
+/*must have*/
+z-index:-1;
+/*must have*/
+filter:mask();
+/*must have*/
+top:-4px;
+/*must have*/
+left:-4px;
+/*must have*/
+width:200px;
+/*must have*/
+height:200px;
+/*must have*/
+}
+
+/**/
+.ui-datepicker {
+display:none;
+position:absolute;
+left:10px;
+top:10px;
+z-index:9998;
+width:412px;
+
+_height:207px;
+background-color:#f5f5f5;
+border:1px solid #494949;
+}
+
+.ui-datepicker-title {
+text-align:center;
+font-size:80%;
+}
+
+.ui-datepicker table {
+width:162px;
+margin:0 auto;
+float:left;
+}
+.ui-datepicker .ui-datepicker-month {
+padding:0 0 4px;
+border:none;
+background:none;
+font-weight:700;
+font-family:Helvetica,sans-serif;
+cursor:default;
+color:#666;
+line-height:17px;
+text-decoration:none;
+text-transform:uppercase;
+}
+.ui-datepicker th.ui-datepicker-month {
+text-align:center;
+padding-top:32px;
+border-bottom:1px solid #d4d4d4;
+}
+
+.ui-datepicker tr.calweekdayrow .ui-datepicker-other-month {
+padding:2px;
+cursor:default;
+}
+
+.ui-datepicker thead {
+border-top:1px solid #D4D4D4;
+}
+
+.ui-datepicker th {
+height:auto;
+padding:1px;
+font-weight:700;
+color:#21629c;
+line-height:17px;
+text-align:center;
+text-transform:uppercase;
+font-size:80%;
+}
+
+.ui-datepicker td,.ui-datepicker td a {
+cursor:default;
+color:#2c2c2c;
+}
+
+.ui-datepicker td {
+position:static;
+padding:2px 0;
+border:1px solid #e7e7e7;
+background-color:#fff;
+text-align:center;
+line-height:13px;
+}
+
+/*vsetky policka*/
+.ui-datepicker td.ui-datepicker-week-end {
+position:static;
+width:auto;
+height:auto;
+padding:0;
+border:1px solid #e7e7e7;
+background-color:#FFC;
+text-align:center;
+line-height:13px;
+}
+
+/*POSLEDNE DVE*/
+.ui-datepicker-current-day:hover {
+cursor:default;
+background:#2A76AC;
+}
+
+.ui-datepicker td a {
+font-size:11px;
+line-height:11px;
+text-decoration:none;
+margin-left:auto;
+margin-right:auto;
+}
+
+.ui-datepicker td a:hover {
+color:#FFF;
+
+}
+
+.ui-datepicker td.calcell.previous {
+background-color:#fff;
+
+color:#a6a6a6;
+}
+
+.ui-datepicker td.ui-state-highlight,.ui-datepicker .ui-state-highlight a {
+background-color:#ccc;
+color:#000;
+
+}
+
+.ui-datepicker-multi td.selectedStart,.ui-datepicker-multi td.selectedStart a {
+background-color:#D88027;
+background:red;
+color:#fff;
+}
+.ui-datepicker-multi .ui-state-active {
+ background:#21629C;
+ color:white;padding-top:0;margin-toP:0;border:0
+}
+
+.ui-datepicker-multi td.ui-state-active {
+background-color:#21629C;border:1px solid red;
+
+color:#fff;
+}
+
+.ui-datepicker-multi td:hover {
+background-color:#D88027;
+cursor:pointer;
+cursor:pointer;
+color:#fff;
+}
+
+.ui-datepicker td.highlight1 a {
+background-color:#D88027;
+}
+
+.ui-datepicker td.highlight2 a {
+background-color:#21629C;
+}
+
+.ui-datepicker td.highlight3 a {
+background-color:#D88027;
+}
+
+.ui-datepicker td.highlight4 a {
+background-color:#21629C;
+
+}
+
+.ui-datepicker td.oom {
+background-color:#fff;
+color:#fff;
+
+}
+
+.ui-datepicker .ui-state-disabled {
+background-color:#FFF;
+
+color:#A6A6A6;
+}
+/* states and images */
+.ui-icon {
+width:20px;
+height:15px;
+
+}
+
+.ui-widget-header .ui-icon {
+background-image:url(http://newyorkcity.sk/wp-content/themes/newyork/index/calendar_arrows.gif);
+
+
+}
+
+/*TOTO*/
+/* positioning */
+.ui-icon-circle-triangle-w {
+background-position:0 0;
+background:#F5F5F5;
+
+}
+
+/*spravo*/
+.ui-icon-circle-triangle-e {
+background-position:-30px 0;
+}
+
+.ui-icon {
+display:block;
+text-indent:-99999px;
+overflow:hidden;
+background-repeat:no-repeat;
+}
+
+
+h3.indexlevel {
+font-size:140%;margin-left:10px;color:#474747}
+
+
+.top-destination {color:white;margin-left:20px;text-shadow: #000 1px 1px 2px;}
