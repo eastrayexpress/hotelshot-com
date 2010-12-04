@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+	<name>Why book with us</name>
+	<author>longLH</author>
+	<creationDate>12.2010</creationDate>
+	<copyright>Copyright (C) 2010 - 2011</copyright>	
+	<authorEmail>longdt@live.com</authorEmail>	
+	<version>1.5.0</version>
+	<description>Why book with us</description>
+	<files>
+		<filename module="mod_why_book_with_us">mod_why_book_with_us.php</filename>
+	</files>
+	<params>
+		<param name="cache" type="list" default="1" label="Caching" description="Select whether to cache the content of this module">
+			<option value="1">Use global</option>
+			<option value="0">No caching</option>
+		</param>
+	</params>
+</install>
