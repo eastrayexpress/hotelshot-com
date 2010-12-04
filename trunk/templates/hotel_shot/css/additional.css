@@ -131,3 +131,40 @@ button::-moz-focus-inner
 {
     font-size: 12px;
 }
+.grid_menufooter
+{
+    display:inline;
+    float:left;    
+}
+.grid_menufooter ul.menu
+{
+    text-align:left;
+    display:inline;
+}
+.grid_menufooter ul.menu li
+{
+    display:inline;
+    float:left;
+    width:190px;    
+    list-style:none;
+    margin-left:5px;
+    margin-right:5px;
+}
+.grid_menufooter ul.menu li a
+{    
+    font-weight:bold;
+    color:#333333;
+    font-size:11px;
+}
+.grid_menufooter ul.menu li ul
+{
+    display:inline;
+}
+.grid_menufooter ul.menu li ul li
+{
+   margin:0;
+}
+.grid_menufooter ul.menu li ul li a
+{
+    font-weight:normal; 
+}

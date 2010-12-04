@@ -160,22 +160,14 @@ function makeTransBG() {
             
             <div class="clear top200">
             </div>
-            <hr>
+            <hr>           
+            
             <div class="grid_5">
                 <img src="<?php echo $tmpTools->templateurl();?>/logo.png" width="200px" />
             </div>
-            <div class="grid_5">
-                <strong>About Us</strong><br>
-                FAQ
-            </div>
-            <div class="grid_5">
-                <strong>Contact Us</strong><br>
-                Customer Support
-            </div>
-            <div class="grid_5">
-                <strong>Terms & Conditions</strong><br>
-                Privacy
-            </div>
+             <div class="grid_menufooter">
+				<jdoc:include type="modules" name="footermenu" />
+            </div>            
     </div>
     <style>
         .index

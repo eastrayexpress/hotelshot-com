@@ -51,7 +51,9 @@
         <position>homecolumn1</position>
         <position>homecolumn2</position>
         <position>homecolumn3</position>
+        <position>footermenu</position>
         
+
     </positions>
 
 	<!--<params>
