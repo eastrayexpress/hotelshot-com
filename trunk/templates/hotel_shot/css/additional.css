@@ -116,3 +116,18 @@ button::-moz-focus-inner
     width: 590PX!important;
     float: right
 }
+.benefit ul li
+{
+    color: red;
+}
+.index-img
+{
+    margin-left: 10px;
+    float: left;
+    position: relative;
+    margin-right: 10px;
+}
+.index-recent h4
+{
+    font-size: 12px;
+}

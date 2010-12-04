@@ -46,7 +46,13 @@
 		<position>footer</position>
 		<position>syndicate</position>
 		<position>debug</position>
-	</positions>
+        <position>homesearchbox</position>
+        <position>topattraction</position>
+        <position>homecolumn1</position>
+        <position>homecolumn2</position>
+        <position>homecolumn3</position>
+        
+    </positions>
 
 	<!--<params>
 		<param type="spacer" default="Template Logo" />

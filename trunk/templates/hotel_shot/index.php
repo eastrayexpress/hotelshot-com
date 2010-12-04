@@ -106,277 +106,58 @@ function makeTransBG() {
             <hr>
             <div class="clear">
             </div>
+            <!-- BEGIN HOME SEARCH BOX-->
+            <?php if($this->countModules("homesearchbox")):?>
             <div class="grid_8 alpha left-container" style="background: #F7F7F7; min-height: 290px;
                 border: 5px solid #D4DEF0; padding: 10px; width: 315px; margin-right: 5px">
-                <form name="bookingSearchForm" action="http://www.booking.com/searchresults.html"
-                id="bookingSearchForm" method="get" target="_blank">
-                <div class="hdr">
-                    <h2 style="">
-                        Search hotels</h2>
-                </div>
-                <hr>
-                <input type="hidden" name="aid" value="325061" />
-                <input type="hidden" name="label" value="shot" />
-                <input type="hidden" name="ss_all" value="0" />
-                <input type="hidden" name="si" value="ai,co,ci,re,di" />
-                <input type="hidden" name="ifl" value="1" />
-                <div class="gridfirst">
-                    <label for="autocomplete">
-                        Destination:</label><br />
-                    <input class="text" type="search" results="6" autosave="booking.com" placeholder="Mesto, Oblasť, Krajina, Pamiatka, Hotel, Štvrť"
-                        name="ss" id="autocomplete" title="Mesto, Oblasť, Krajina, Pamiatka, Hotel, Štvrť" />
-                    <div class="clear">
-                    </div>
-                    <p class="explanatory_index">
-                        You can type anything here: a city, an airport code, a country or landmark.
-                    </p>
-                </div>
-                <br />
-                <div class="gridnew">
-                    <label for="checkin">
-                        Check-in:</label><br />
-                    <input type="text" id="checkin" name="checkin" class="datepicker" value="dd/mm/yy" />
-                    <div class="destination_flyout_button">
-                    </div>
-                </div>
-                <div class="gridnew">
-                    <label for="checkout">
-                        Check-out:</label><br />
-                    <input type="text" id="checkout" name="checkout" class="datepicker" value="dd/mm/yy" />
-                    <div class="destination_flyout_button">
-                    </div>
-                </div>
-                <button type="submit" class="button blue index" style="" title="Book your hotel now!">
-                    <span>Search ›</span>
-                </button>
-                </form>
-            </div>          
+                
+				<jdoc:include type="modules" name="homesearchbox" />
+				
+                
+            </div>     
+            <?php endif;?>
+            <!-- END HOME SEARCH BOX-->  
+            <!-- BEGIN TOP ATTRACTION-->  
+            <?php if($this->countModules("topattraction")):?>               
             <div id="mainhotel" class="bg-hotel-feature grid_16 alpha omega " >
-                <div style="background: rgba(37,140,216,.7); margin-top: 250px; min-height: 60px">
-                    <h2 class="top-destination">
-                        Istanbul</h2>
-                    </a>
-                    <div style="margin-top: -70px; width: 90px; float: right; margin-right: 50px; padding: 10px;
-                        font: bold 23px Arial; background: rgba(37,140,216,.7); color: white;">
-                        od 32€
-                        <img src="<?php echo $tmpTools->templateurl();?>/more-destinations.gif">
-                    </div>
-                </div>
+				<jdoc:include type="modules" name="topattraction" />
             </div>
+            <?php endif;?>
+            <!-- END TOP ATTRACTION-->  
+            <!--SEPARATE-->
+            <?php if($this->countModules("homesearchbox") ||$this->countModules("topattraction") ):?>
             <div class="clear">
             </div>
             <br />
+            <?php endif;?>
+            
+            
+            <!-- BEGIN Home Column 1-->  
+            <?php if($this->countModules("homecolumn1")):?>    
             <div class="grid_8" id="popular" style="width: 340px">
-                <div class="benefit" style="margin-bottom: 10px">
-                    <h3>
-                        Most popular cities</h3>
-                </div>
-                <div class="grid_4" style="padding: 5px; padding-left: 0">
-                    <img src="http://www.stay.com/images/city/345/61769b85/las-vegas-skyline.jpg" style="width: 150;
-                        height: 75px">
-                    <h3 class="city-index">
-                        Las Vegas</h3>
-                    <div class="hotel-count">
-                        195 hotels
-                    </div>
-                    <div class="price-range">
-                        from 20 USD</div>
-                </div>
-                <div class="grid_4" style="padding: 5px">
-                    <img src="http://www.stay.com/images/city/357/190fd51f/new-york-featured.jpg" style="width: 150;
-                        height: 75px">
-                    <h3 class="city-index">
-                        New York</h3>
-                    <div class="hotel-count">
-                        195 hotels
-                    </div>
-                    <div class="price-range">
-                        from 20 USD</div>
-                </div>
-                <div class="grid_4" style="padding: 5px; padding-left: 0">
-                    <img src="http://www.stay.com/images/city/129/5c8d74bd/paris-featured.jpg" style="width: 150;
-                        height: 75px">
-                    <h3 class="city-index">
-                        Paris</h3>
-                    <div class="hotel-count">
-                        195 hotels
-                    </div>
-                    <div class="price-range">
-                        from 20 USD</div>
-                </div>
-                <div class="grid_4" style="padding: 5px">
-                    <img src="http://www.stay.com/images/city/104/df0f3d10/plaza-mayor-in-the-heart-of-madrid.jpg"
-                        style="width: 150; height: 75px">
-                    <h3 class="city-index">
-                        Madrid</h3>
-                    <div class="hotel-count">
-                        195 hotels
-                    </div>
-                    <div class="price-range">
-                        from 20 USD</div>
-                </div>
-            </div>
-            <style>
-                .benefit ul li
-                {
-                    color: red;
-                }
-            </style>
+				<jdoc:include type="modules" name="homecolumn1" />
+            </div>            
+            <?php endif;?>
+                        
+            <!-- BEGIN Home Column 2-->  
+            <?php if($this->countModules("homecolumn2")):?>    
             <div class="hotel-index-benefits grid_9">
-                <div class="benefit">
-                    <h3>
-                        Why book your hotel with hotelshot.com?</h3>
-                    <ul class="check">
-                        <li>More than <a>150 000 hotels</a></li>
-                        <li>Secure booking</li>
-                        <li>More than 14€ saved already</li>
-                        <li>No cancellation fees</li>
-                        <li>Lots of customer reviews</li>
-                    </ul>
-                </div>
-                <div class="benefit">
-                    <h3>
-                        Recently booked</h3>
-                </div>
-                <p style="margin-left: 15px">
-                    <strong><a href="">The Carlton Hotel</a></strong> v meste Ipswich (GB) 12.32 pm
-                </p>
-                <p style="margin-left: 15px">
-                    <strong><a href="">The Carlton Hotel</a></strong> v meste Ipswich (GB) 12.32 pm
-                </p>
-                <p style="margin-left: 15px">
-                    <strong><a href="">The Carlton Hotel</a></strong> v meste Ipswich (GB) 12.32 pm
-                </p>
+				
+				<jdoc:include type="modules" name="homecolumn2" />                           
+                
             </div>
+            
+            <?php endif;?>
+            
+             <!-- BEGIN Home Column 3-->  
+            <?php if($this->countModules("homecolumn3")):?>    
             <div class="grid_6 index-recent" style="">
-                <style>
-                    .index-img
-                    {
-                        margin-left: 10px;
-                        float: left;
-                        position: relative;
-                        margin-right: 10px;
-                    }
-                    .index-recent h4
-                    {
-                        font-size: 12px;
-                    }
-                </style>
-                <div class="benefit" style="margin-bottom: 10px">
-                    <h3>
-                        My hotelshot.com</h3>
-                </div>
-                <h3 class="indexlevel">
-                    My bookmarks</h3>
-                <div class="deals-inner-cont">
-                    <div class="deal-price">
-                        <label class="deal-price-link">
-                            <img src="http://y.bstatic.com/images/hotel/square60/333/3337306.gif">
-                    </div>
-                    <div class="deal-details">
-                        <label>
-                            <a href="" target="_blank">Tropicana Las Vegas Hotel & Resort Casino</a>
-                        </label>
-                        <p style="margin-top: 20px">
-                            <div id="star-cont" style="padding-top: 0px;">
-                                <span class="star5"></span>
-                            </div>
-                        </p>
-                        <strong><a class="deal-price-link">132€</a></strong>
-                    </div>
-                </div>
-                <div class="deals-inner-cont">
-                    <div class="deal-price">
-                        <label class="deal-price-link">
-                            <img src="http://z.bstatic.com/images/hotel/square60/275/2755665.gif">
-                    </div>
-                    <div class="deal-details">
-                        <label>
-                            <a href="" target="_blank">MGM Grand</a>
-                        </label>
-                        <p style="margin-top: 20px">
-                            <div id="star-cont" style="padding-top: 0px;">
-                                <span class="star4"></span>
-                            </div>
-                        </p>
-                        <strong><a class="deal-price-link">78€</a></strong>
-                    </div>
-                </div>
-                <div class="deals-inner-cont">
-                    <div class="deal-price">
-                        <label class="deal-price-link">
-                            <img src="http://y.bstatic.com/images/hotel/square60/287/2876848.gif">
-                    </div>
-                    <div class="deal-details">
-                        <label>
-                            <a href="" target="_blank">Mandarin Oriental at CityCenter Las Vegas </a>
-                        </label>
-                        <p style="margin-top: 20px">
-                            <div id="star-cont" style="padding-top: 0px;">
-                                <span class="star5"></span>
-                            </div>
-                        </p>
-                        <strong><a class="deal-price-link">190€</a></strong>
-                    </div>
-                </div>
-                <p id="see-all-deals">
-                    <a href="/my-hotelshots">See All your favourite hotels</a></p>
-                <div class="clear">
-                </div>
-                <h3 class="indexlevel">
-                    Recently viewed hotels</h3>
-                <div class="deals-inner-cont">
-                    <div class="deal-price">
-                        <label class="deal-price-link">
-                            <img src="http://y.bstatic.com/images/hotel/square60/333/3337306.gif">
-                    </div>
-                    <div class="deal-details">
-                        <label>
-                            <a href="" target="_blank">Tropicana Las Vegas Hotel & Resort Casino</a>
-                        </label>
-                        <p style="margin-top: 20px">
-                            <div id="star-cont" style="padding-top: 0px;">
-                                <span class="star5"></span>
-                            </div>
-                        </p>
-                        <strong><a class="deal-price-link">132€</a></strong>
-                    </div>
-                </div>
-                <div class="deals-inner-cont">
-                    <div class="deal-price">
-                        <label class="deal-price-link">
-                            <img src="http://z.bstatic.com/images/hotel/square60/275/2755665.gif">
-                    </div>
-                    <div class="deal-details">
-                        <label>
-                            <a href="" target="_blank">MGM Grand</a>
-                        </label>
-                        <p style="margin-top: 20px">
-                            <div id="star-cont" style="padding-top: 0px;">
-                                <span class="star4"></span>
-                            </div>
-                        </p>
-                        <strong><a class="deal-price-link">78€</a></strong>
-                    </div>
-                </div>
-                <div class="deals-inner-cont">
-                    <div class="deal-price">
-                        <label class="deal-price-link">
-                            <img src="http://y.bstatic.com/images/hotel/square60/287/2876848.gif">
-                    </div>
-                    <div class="deal-details">
-                        <label>
-                            <a href="" target="_blank">Mandarin Oriental at CityCenter Las Vegas </a>
-                        </label>
-                        <p style="margin-top: 20px">
-                            <div id="star-cont" style="padding-top: 0px;">
-                                <span class="star5"></span>
-                            </div>
-                        </p>
-                        <strong><a class="deal-price-link">190€</a></strong>
-                    </div>
-                </div>
+            
+				<jdoc:include type="modules" name="homecolumn3" />               
+                
             </div>
+            <?php endif;?>
+            
             <div class="clear top200">
             </div>
             <hr>
