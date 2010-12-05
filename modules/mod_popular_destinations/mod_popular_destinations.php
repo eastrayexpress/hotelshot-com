@@ -13,6 +13,7 @@
 
 // no direct access
 defined('_JEXEC') or die('Restricted access');
-
-global $mainframe;
+require ('helper.php');
+$helper =new ModPopularDestinationsHelper();
+$list =$helper->getDestinations();
 require(JModuleHelper::getLayoutPath('mod_popular_destinations'));
